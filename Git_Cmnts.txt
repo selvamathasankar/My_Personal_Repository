@@ -1,0 +1,42 @@
+to clone the git repo
+git clone <HTTPS link>
+
+to get the Status:
+    git status
+
+to add file from working to Git folder
+    Git add <filename>
+
+to commit:
+    git commit -m "message"
+
+to pull the files into local:
+git pull
+
+
+To make to local folder as a git folder
+    git init
+
+To add all modified file
+git add .
+
+to know the master name:
+git branch
+
+to change the orgin 
+    git remote add origin https://github.com/Akashprabhu18/LocaltoGit.git
+
+to navigate to another branch
+     git checkout <branchname>
+
+to view the remote :
+    git remote -v
+
+to navigate between the branches:
+    git checkout <Branch name>
+
+to change the remote origin:
+    git remote set-url origin <HTTPS link>
+
+to check the current working branch:
+    git branch -a
