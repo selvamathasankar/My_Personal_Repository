@@ -31,7 +31,6 @@ to navigate to another branch
 
 to view the remote :
     git remote -v
-
 to navigate between the branches:
     git checkout <Branch name>
 
